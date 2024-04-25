@@ -1,6 +1,12 @@
-## Hi there 👋
+# Hi there 👋
 
 My name is Jacobo Osorio and welcome to my GitHub profile!
+
+## Profile details:
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JacoboOsorio&theme=tokyonight)
+
+## Languages by repo:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JacoboOsorio&theme=tokyonight&exclude={exclude})
 
