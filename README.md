@@ -5,9 +5,9 @@ My name is Jacobo Osorio, Software Developer student and welcome to my GitHub pr
 ## About me:
 
 - _Languages:_ Spanish and english
-- 🔭 _I’m currently working on_ finishing my degree
-- 🌱 _I’m currently learning_ C#, JavaScript and Python
-- 📫 _How to reach me:_ jacoboosorio299589@gmail.com
+- _I’m currently working on_ finishing my degree
+- _I’m currently learning_ C#, JavaScript and Python
+- _How to reach me:_ jacoboosorio299589@gmail.com
 
 **Trying to use git and github...**
 
