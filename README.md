@@ -1,7 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**JacoboOsorio/JacoboOsorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Jacobo Osorio and welcome to my GitHub profile! I'm currently finishing my
+
+## STATS
+
+![Stats](https://activity-graph.herokuapp.com/graph?username=JacoboOsorio&theme=react-dark&hide_border=true&area=true)
 
 Here are some ideas to get you started:
 
@@ -13,4 +16,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
