@@ -1,22 +1,6 @@
 # Hi there 👋
 
-My name is Jacobo Osorio and welcome to my GitHub profile!
-
-## GitHub stats:
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JacoboOsorio&theme=tokyonight)
-
-## Profile details:
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JacoboOsorio&theme=tokyonight)
-
-## Languages by repo:
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JacoboOsorio&theme=tokyonight&exclude={exclude})
-
-## Languages by commit:
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JacoboOsorio&theme=tokyonight&exclude={exclude})
+My name is Jacobo Osorio, Software Developer student and welcome to my GitHub profile!
 
 ## About me:
 
@@ -38,6 +22,22 @@ My name is Jacobo Osorio and welcome to my GitHub profile!
 ## Editors I use:
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## GitHub stats:
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JacoboOsorio&theme=tokyonight)
+
+## Profile details:
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JacoboOsorio&theme=tokyonight)
+
+## Languages by repo:
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JacoboOsorio&theme=tokyonight&exclude={exclude})
+
+## Languages by commit:
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JacoboOsorio&theme=tokyonight&exclude={exclude})
 
 ## Social media:
 
