@@ -2,7 +2,7 @@
 
 My name is Jacobo Osorio and welcome to my GitHub profile!
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme={theme_name}&exclude={exclude})
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JacoboOsorio&theme=tokyonight&exclude={exclude})
 
 ## About me:
 
