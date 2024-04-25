@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Jacobo Osorio, Software Developer student and welcome to my GitHub profile!
+My name is Jacobo Osorio, Software Developer student. Be welcome to my GitHub profile!
 
 ## About me:
 
