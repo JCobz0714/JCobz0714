@@ -19,17 +19,9 @@ My name is Jacobo Osorio, Software Developer student. Be welcome to my GitHub pr
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JacoboOsorio&theme=tokyonight)
 
-## Profile details:
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JacoboOsorio&theme=tokyonight)
-
 ## Languages by repo:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JacoboOsorio&theme=tokyonight&exclude={exclude})
-
-## Languages by commit:
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JacoboOsorio&theme=tokyonight&exclude={exclude})
 
 ## Social media:
 
