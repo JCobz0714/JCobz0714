@@ -6,7 +6,7 @@ My name is Jacobo Osorio, Software Developer student. Be welcome to my GitHub pr
 
 - _Languages:_ I speak spanish (native) and english (B2)
 - _I’m currently working on_ finishing my degree
-- _I’m currently learning_ C#, Java and JavaScript
+- _I’m currently learning_ C#, Java, JavaScript and RPA Development with UiPath Studio
 - _How to reach me:_ jacoboosorio299589@gmail.com
 
 **Trying to use git and github...**
