@@ -31,8 +31,8 @@ My name is Jacobo Osorio, Software Developer student. Be welcome to my GitHub pr
 
 - ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white) [My Replit](https://replit.com/@jacoboosorio299?tab=repls)
 
+- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [My LinkedIn](https://www.linkedin.com/in/jacoboosorio/)
+
 - ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) [My Facebook](https://www.facebook.com/jacobo.osorio.5648)
 
 - ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) [My Instagram](https://www.instagram.com/jcob_z0714/)
-
-- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [My LinkedIn](https://www.linkedin.com/in/jacoboosorio/)
