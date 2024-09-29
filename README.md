@@ -25,9 +25,9 @@ My name is Jacobo Osorio, Software Developer student. Be welcome to my GitHub pr
 
 ## Social media:
 
-- ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) [My LeetCode](https://leetcode.com/J_Cob/)
-
 - ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey) [My CodeWars](https://www.codewars.com/users/J.%20Cob)
+
+- ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) [My LeetCode](https://leetcode.com/J_Cob/)
 
 - ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white) [My Replit](https://replit.com/@jacoboosorio299?tab=repls)
 
