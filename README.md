@@ -17,7 +17,7 @@ My name is Jacobo Osorio, Software Developer student. Be welcome to my GitHub pr
 
 ## GitHub stats:
 
-![](https://github-readme-stats.vercel.app/api?username=jacoboosorio&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=Jcobz0714&show_icons=true&theme=radical)
 
 ## Most used languages:
 
