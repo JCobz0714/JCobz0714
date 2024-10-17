@@ -17,11 +17,11 @@ My name is Jacobo Osorio, Software Developer student. Be welcome to my GitHub pr
 
 ## GitHub stats:
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JacoboOsorio&theme=tokyonight)
+![Jacobo's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
-## Languages by repo:
+## Most used languages:
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JacoboOsorio&theme=tokyonight&exclude={exclude})
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Social media:
 
