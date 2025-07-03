@@ -8,7 +8,7 @@ My name is Jacobo Osorio, Software Developer student. Be welcome to my GitHub pr
 - _I’m currently working on_ finishing my degree
 - _I’m currently learning:_  
   • Spring Boot w/ Java  
-  • Angular w/ HTML, CSS, JavaScript and TypeScript  
+  • Angular and Bootstrap w/ HTML, CSS, JavaScript and TypeScript  
   • ASP.NET w/ C#  
   • Databases w/ SQL  
 - _How to reach me:_ jacoboosorio299589@gmail.com
