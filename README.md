@@ -4,8 +4,8 @@ My name is Jacobo Osorio, Software Developer student. Be welcome to my GitHub pr
 
 ## About me:
 
-- _Languages:_ I speak spanish (native) and english (B2)
-- _I’m currently working on_ finishing my degree
+- _Languages:_ I speak spanish (native) and english (B2)  
+- _I’m currently working on_ finishing my degree  
 - _I’m currently learning:_  
   • Spring Boot w/ Java  
   • ASP.NET w/ C#, Angular w/ HTML, CSS, JavaScript and TypeScript  
