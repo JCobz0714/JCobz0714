@@ -6,3 +6,6 @@ channel = "stable-24_05"
 
 [deployment]
 run = ["sh", "-c", "cowsay Configure me!"]
+
+[agent]
+expertMode = true
