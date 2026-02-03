@@ -25,7 +25,7 @@ My name is Jacobo Osorio, Software Developer student. Be welcome to my GitHub pr
 
 ## Most used languages:
 
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=JCobz0714&layout=compact&theme=tokyonight&langs_count=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JCobz0714&theme=dracula)
 
 ## Social media:
 
