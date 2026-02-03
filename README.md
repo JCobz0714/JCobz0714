@@ -22,7 +22,15 @@ My name is Jacobo Osorio, Software Developer student. Be welcome to my GitHub pr
 
 ## Summary card:
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JCobz0714&theme=monokai)
+![Summary card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JCobz0714&theme=monokai)
+
+## Github stats:
+
+![Github stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JCobz0714&theme=nord_dark)
+
+## Most used languages:
+
+![Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JCobz0714&theme=tokyonight)
 
 ## Social media:
 
