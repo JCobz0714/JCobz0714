@@ -21,7 +21,7 @@ My name is Jacobo Osorio, Software Developer student. Be welcome to my GitHub pr
 
 ## GitHub stats:
 
-![trophy](https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=JCobz0714&theme=onedark)
 
 ## Most used languages:
 
