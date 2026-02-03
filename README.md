@@ -21,11 +21,11 @@ My name is Jacobo Osorio, Software Developer student. Be welcome to my GitHub pr
 
 ## GitHub stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JCobz0714&show_icons=true&theme=transparent)
+![Estadisticas](https://github-readme-stats.vercel.app/api?username=JCobz0714&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
 ## Most used languages:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jcobz0714&theme=tokyonight)
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=JCobz0714&layout=compact&theme=tokyonight&langs_count=8)
 
 ## Social media:
 
