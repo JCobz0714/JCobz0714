@@ -22,7 +22,7 @@ My name is Jacobo Osorio, Software Developer student. Be welcome to my GitHub pr
 
 ## Summary card:
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JCobz0714&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JCobz0714&theme=synthwave)
 
 ## Social media:
 
