@@ -29,14 +29,12 @@ My name is Jacobo Osorio, Software Developer student. Be welcome to my GitHub pr
 
 ## Social media:
 
-- ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey) [My CodeWars](https://www.codewars.com/users/J.%20Cob)
-
 - ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) [My LeetCode](https://leetcode.com/J_Cob/)
 
-- ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white) [My Replit](https://replit.com/@jacoboosorio299?tab=repls)
+- ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey) [My CodeWars](https://www.codewars.com/users/J.%20Cob)
 
 - ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [My LinkedIn](https://www.linkedin.com/in/jacoboosorio/)
 
-- ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) [My Facebook](https://www.facebook.com/jacobo.osorio.5648)
-
 - ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) [My Instagram](https://www.instagram.com/jcob_z0714/)
+
+- ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) [My Facebook](https://www.facebook.com/jacobo.osorio.5648)
