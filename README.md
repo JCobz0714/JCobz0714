@@ -31,7 +31,7 @@ const jacobo = {
     currentFocus: "Full Stack Development",
     learning: ["Spring Boot", "React", "ASP.NET", "FastAPI"],
     lookingFor: "Opportunities to grow professionally",
-    funFact: "I combine code with soccer and video games ⚽🎮"
+    funFact: "I combine code with football and video games ⚽🎮"
 };
 ```
 
