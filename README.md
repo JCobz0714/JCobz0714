@@ -98,7 +98,7 @@ const jacobo = {
 ## 🎯 Currently Learning
 
 - 🌱 **Spring Boot** with Java for robust backend
-- ⚛️ **React** + **TypeScript** for modern interfaces
+- ⚛️ **React** + **TypeScript** + **Tailwind CSS** for modern interfaces
 - 🔷 **ASP.NET Core** with C#
 - ⚡ **FastAPI** with Python and SQLModel as ORM
 - 🗄️ Advanced relational database management
@@ -109,10 +109,10 @@ const jacobo = {
 
 When I'm not coding, you'll probably find me:
 
-- ⚽ Playing or watching soccer
-- 🎮 Exploring new video games
 - 🏋️ Training and staying active
+- ⚽ Watching or reading news about football (not soccer btw)
 - 🎵 Discovering new music
+- 🎮 Exploring new video games
 - 📚 Reading and learning new things
 
 ---
